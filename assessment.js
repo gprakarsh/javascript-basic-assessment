@@ -4,7 +4,7 @@
 
 
 // #2 Use the variable iLove to create a new variable called iLoveCode that is assigned the string "I love code"
-var iLove = 'I love';
+var iLove = 'I hate';
 
 // #3  Make an object called bob and give it the following properties
 // bob has a height of 6ft (string)
@@ -44,7 +44,7 @@ var snake = {
 //#7 Create an array of strings that are the 7 primary colors in the rainbow - red, orange, yellow, green, blue, indigo, violet (lower-case). Call your array rainbowColors
 
 // #8 Using this array do the following
-var heroes = ['superman', 'batman', 'flash'];
+var heroes = ['superwoman', 'batgirl', 'flash'];
 // add 'wonderwoman' to the end
 
 // remove 'superman' and store him in a variable called firstHero
